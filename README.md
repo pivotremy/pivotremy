@@ -1,4 +1,6 @@
-# Pivot Remy **Software & Firmware Development Engineer**
+## Pivot Remy
+
+**Software & Firmware Development Engineer**
 - Specializing in: **C/C++, Python, and Rust**
 
 ### Certifications
