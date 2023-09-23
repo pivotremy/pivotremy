@@ -3,9 +3,9 @@
 **Software & Firmware Development Engineer**
 - Specializing in: **C/C++, Python, and Rust**
 
-## Certifications
+### Certifications
 
 * **Zephyr Fundamental & Bluetooth Low Energy** - Nordic Semiconductor
 
-## 📞 Contact
+###  Contact
 - 📧 Email: `me [at] pivotremy.fr`
